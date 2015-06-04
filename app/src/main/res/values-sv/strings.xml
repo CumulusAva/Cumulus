@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cumulus</string>
+    <string name="action_read_list">Att läsa</string>
+    <string name="action_refresh">Hämta igen</string>
+    <string name="action_save">Spara för senare</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="article_no_saved">Inga sparade artiklar</string>
+    <string name="article_remove">Ta bort objekt</string>
+    <string name="cancel">Avbryt</string>
+    <string name="error">Fel</string>
+    <string name="loading">Laddar&#8230;</string>
+    <string name="pref_changed">Starta om för att tillämpa</string>
+    <string name="try_again">Prova igen</string>
+    <string name="toast_saved_article">Artikel sparad</string>
+    <string name="pref_toolbar_title">Aktivera döljbart verktygsfält</string>
+    <string name="pref_toolbar_summary">Dölj verktygsfältet vid bläddring</string>
+    <string name="pref_push_title">Aktivera push-notiser</string>
+    <string name="pref_push_summary">Tillåt att Cumulus skickar meddelanden till dig</string>
+    <string name="pref_snackBar_restart">Starta om</string>
+</resources>

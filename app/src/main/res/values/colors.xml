@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Basic colors for app -->
+    <color name="blue_primary">#26ade4</color>
+    <color name="blue_secondary">#1997ca</color>
+
+    <color name="orange_accent">#e45d26</color>
+
+    <color name="blue_link_text">#0000EE</color>
+
+    <!-- Grayscale for different uses -->
+
+    <color name="black">#000000</color>
+    <color name="black_divider">#1E000000</color>
+    <color name="black_text_hint">#42000000</color>
+    <color name="black_text_secondary">#8A000000</color>
+    <color name="black_text_primary">#DE000000</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="gray_background">#10000000</color>
+
+</resources>

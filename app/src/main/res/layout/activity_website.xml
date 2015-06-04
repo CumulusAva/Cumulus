@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null"
+    android:animateLayoutChanges="true"
+    >
+
+    <com.github.cumulusava.android.cumulus.customViews.ObservableScrollView
+        android:id="@+id/scrollView_webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="?attr/actionBarSize"
+        android:clipToPadding="false"
+        android:background="@color/white"
+        >
+
+        <com.github.cumulusava.android.cumulus.customViews.CumulusWebView
+            android:id="@+id/webview_cumulus"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+
+    </com.github.cumulusava.android.cumulus.customViews.ObservableScrollView>
+
+    <include layout="@layout/view_toolbar" />
+
+    <FrameLayout
+        android:id="@+id/container_video_fullscreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:background="@color/black"
+        />
+
+</FrameLayout>

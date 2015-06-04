@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="pref_push_key" translatable="false">pref_key_allow_push</string>
+    <string name="pref_push_title">Enable push-notifications</string>
+    <string name="pref_push_summary">Allow Cumulus sending notifications to you</string>
+
+    <string name="pref_toolbar_key" translatable="false">pref_key_hide_toolbar</string>
+    <string name="pref_toolbar_title">Enable hiding toolbar</string>
+    <string name="pref_toolbar_summary">Hide the toolbar when scrolling</string>
+
+    <string name="pref_changed">Restart to apply changes</string>
+    <string name="pref_snackBar_restart">Restart</string>
+
+</resources>

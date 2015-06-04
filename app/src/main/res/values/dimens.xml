@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="toolbar_shadow_height">6dp</dimen>
+
+    <dimen name="list_margin">8dp</dimen>
+    <dimen name="list_item_padding">20dp</dimen>
+    <dimen name="list_item_height">72dp</dimen>
+
+    <dimen name="content_padding">16dp</dimen>
+
+    <dimen name="touch_target_min_size">48dp</dimen>
+
+    <dimen name="text_size_link">8sp</dimen>
+
+</resources>
